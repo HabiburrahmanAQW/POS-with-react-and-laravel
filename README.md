@@ -11,6 +11,5 @@
 - Run "npm install" for installing npm packages
 - Run "npm run dev" for development, or "npm run production" for production
 - Serve the app using "php artisan serve" or using webserver like apache
-- And done. App ready to use. With default credential { username: heri, password: asdf } ( created by seeder )
-- 
+- And done. App ready to use. With default credential { username: habib, password: qwerty }
 
