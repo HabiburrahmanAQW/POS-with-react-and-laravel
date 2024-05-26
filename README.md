@@ -1,8 +1,3 @@
-![actiry-pos](https://user-images.githubusercontent.com/68384962/115121239-bb106480-9fdb-11eb-9076-731d4181988b.png)
-
-## About Actiry POS
-
-Actiry POS is an open source project by actiry. Implementation from https://github.com/emsifa/tailwind-pos. Using different technology. Which is laravel for backend and react js for front end UI. And plus laravel authentication.
 
 ## How to run the project
 
